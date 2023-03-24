@@ -1,0 +1,6 @@
+com\StepDefinition\Hooks.class
+com\objectrepository\Locators.class
+com\StepDefinition\TestRunner.class
+com\baseclass\CommonMethods.class
+com\StepDefinition\FlipPhonesstepdefinition.class
+com\StepDefinition\FlipOilStepDefinition.class
